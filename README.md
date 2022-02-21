@@ -2,7 +2,7 @@
 
 <hr/>
 
-<a href="https://www.linkedin.com/in/andersonfagundes/">
+<a href="https://www.linkedin.com/in/anderson-fagundes/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
 </a>
 <a href="mailto:anderson.fagundes4@gmail.com">
