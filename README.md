@@ -17,7 +17,7 @@
 💻 I’m a **Software Engineer** studying a MIT in software engineering. </br> </br>
 💬 Feel more than welcome to contact me if you need any help or want to discuss any software development topic! 
    
- <strong><i>Love what you do and do the best you can.</strong>
+ <strong><i>Every work is a self-portrait of the person who performed it. Autograph your work with excellence.</strong>
   
   <br/>
     
