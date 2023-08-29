@@ -14,7 +14,7 @@
 ### About Me 🚀
 
 
-💻 I’m a **Software Engineer** with a MIT in software engineering and passionate about technology, coffee and travel. </br> </br>
+💻 I’m a **Full-stack Software Engineer** with a MIT in software engineering and passionate about technology, coffee and travel. </br> </br>
 💬 Feel more than welcome to contact me if you need any help or want to discuss any software development topic! 
    
  <strong><i>"All work is a self-portrait of the person who performed it. Autograph your work with excellence"</strong>
