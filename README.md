@@ -1,4 +1,4 @@
-### Hi everyone! I'm Anderson Fagundes, welcome to my GitHub 🌱
+Hello, I'm Anderson 👋
 
 <hr/>
 
