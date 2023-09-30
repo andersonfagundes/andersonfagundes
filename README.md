@@ -4,6 +4,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Anderson%20Fagundes-3333cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-fagundes/)](https://www.linkedin.com/in/anderson-fagundes/)
 
-💻 I'm a **Full-stack Software Engineer** with over 10 years of extensive experience in delivering transformative solutions, achieving exceptional results and a strong educational background, including a Postgraduate Degree in Software Engineering and a Higher Certificate in Information Systems..
+I'm a **Full-stack Software Engineer** with over 10 years of extensive experience in delivering transformative solutions, achieving exceptional results and a strong educational background, including a Postgraduate Degree in Software Engineering and a Higher Certificate in Information Systems..
 
 "All work is a self-portrait of the person who performed it. Autograph your work with excellence"
