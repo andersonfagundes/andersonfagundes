@@ -4,10 +4,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Anderson%20Fagundes-3333cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-fagundes/)](https://www.linkedin.com/in/anderson-fagundes/)
 
-I’m a Full-Stack Software Engineer that loves everything about coding. I currently work as a ReactJs instructor at Rocketseat (Formerly also Node.JS and React Native instructor). 
+💻 Highly skilled **Full-stack Software Engineer** with over 10 years of extensive experience in delivering transformative solutions, achieving exceptional results and a strong educational background, including a Postgraduate Degree in Software Engineering and a Higher Certificate in Information Systems..
 
-- 🐶 I like to identify myself as a Shiba Inu.
-- ⚡ I was invited to be a mentor at the biggest Hackaton in Latin America, mentoring dozens of developers during the RS/XP 2019.
-- 👨🏻‍💻 I taught or helped dozens of thousands of developers under the tecnologies I work daily with, such as ReactJS, NextJS, Styled-Components, Stitches, and so many more.
-
-“Wisdom is not a product of schooling but of the lifelong attempt to acquire it.” - Albert Einstein
+"All work is a self-portrait of the person who performed it. Autograph your work with excellence"
