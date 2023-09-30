@@ -2,8 +2,7 @@
 
 ### Hello, I'm Anderson Fagundes 👋
 
-[![Twitter Badge](https://img.shields.io/badge/-@josepholiveirad-3333cc?style=flat-square&labelColor=3333cc&logo=twitter&logoColor=white&link=https://twitter.com/josepholiveirad)](https://twitter.com/josepholiveirad) 
-[![Linkedin Badge](https://img.shields.io/badge/-Joseph%20Oliveira-3333cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/josepholiveiraa/)](https://www.linkedin.com/in/josepholiveiraa/)
+[![Linkedin Badge](https://img.shields.io/badge/-Joseph%20Oliveira-3333cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-fagundes/)](https://www.linkedin.com/in/anderson-fagundes/)
 
 I’m a Full-Stack Software Engineer that loves everything about coding. I currently work as a ReactJs instructor at Rocketseat (Formerly also Node.JS and React Native instructor). 
 
