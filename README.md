@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/andersonfagundes/andersonfagundes/blob/master/images/profile.png" width="300"/>
+<img align="right" src="https://github.com/andersonfagundes/andersonfagundes/assets/46789255/eb694765-c30a-41b7-817a-b45294130313" width="300"/>
 
 ### Hello, I'm Anderson Fagundes 👋
 
