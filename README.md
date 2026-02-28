@@ -4,6 +4,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Anderson%20Fagundes-3333cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anderson-fagundes/)](https://www.linkedin.com/in/anderson-fagundes/)
 
-I'm a **Software Engineer** building reliable, scalable backend systems and APIs. Experienced with relational databases and modern software practices. Currently expanding expertise in Golang, AWS, and clean, maintainable code. Passionate about solving problems, learning new technologies, and contributing to impactful projects.
+I'm a **Software Engineer** building reliable, scalable backend systems and APIs. Experienced with relational databases and modern software practices. Passionate about solving problems, learning new technologies, and contributing to impactful projects.
 
 "All work is a self-portrait of the person who performed it. Autograph your work with excellence"
